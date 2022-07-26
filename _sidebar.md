@@ -1,3 +1,12 @@
-- 主页
+- Welcome | 欢迎
 
   - [概述](/README.md)
+- History | 历史
+  - [awa时期](/history/awa.md)
+- Plugin | 插件
+  - [AllMusic | 全服点歌](/plugin/allmusic.md)
+  - [IronElevator | 铁块电梯](/plugin/ironelevator.md)
+  - [JustMoney | 经济](/plugin/justmoney.md)
+  - [Residence | 领地](/plugin/residence.md)
+  - [Slimefun | 粘液科技](/plugin/slimefun.md)
+  - [ShopChest | 箱子商店](/plugin/shopchest.md)
