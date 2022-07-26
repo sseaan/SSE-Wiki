@@ -1,4 +1,4 @@
-# JustMoney | 经济
+# JustMoney | 经济 💰
 ---
 ## 简介
 服务器货币系统插件
