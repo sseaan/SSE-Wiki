@@ -15,3 +15,5 @@
   - [企鹅](/member/penguin.md)
   - [绿球](/member/greenball.md)
   - [东竹](/member/dongzhu.md)
+  - [Sean](/member/sean.md)
+  - [天行](/member/tianxing.md)
