@@ -27,7 +27,7 @@
   - [阿坤家](/building/akunhome.md)
   - [阿伟家](/building/aweihome.md)
   - [阿阿橘家](/building/aajhome.md)
-  - [lmz家](/building/lmz.md)
+  - [lmz家](/building/lmzhome.md)
   - [YYM家](/building/yymhome.md)
   - [某君家](/building/moujunhome.md)
 - 🧑‍🤝‍🧑 Member | 成员
