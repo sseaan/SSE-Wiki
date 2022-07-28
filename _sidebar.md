@@ -1,5 +1,6 @@
 - 👏 Welcome | 欢迎
   - [概述](/README.md)
+  - [新手引导](/newpeople.md)
 - 📜 History | 历史
   - [Baka群组服时期](/history/baka.md)
   - [awa时期](/history/awa.md)
