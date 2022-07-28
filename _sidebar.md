@@ -11,6 +11,8 @@
   - [Residence | 领地 🏡](/plugin/residence.md)
   - [Slimefun | 粘液科技 🧪](/plugin/slimefun.md)
   - [ShopChest | 箱子商店 📦](/plugin/shopchest.md)
+- 🏘️ Building | 建筑
+  - [新手小屋](/building/novicecabin.md)
 - 🧑‍🤝‍🧑 Member | 成员
   - [企鹅](/member/penguin.md)
   - [绿球](/member/greenball.md)
