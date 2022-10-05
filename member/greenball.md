@@ -3,7 +3,7 @@
 ## 游戏名
 Greenball233
 ## 皮肤
-![](https://s2.loli.net/2022/07/26/7bd4u9Q6apUFcAH.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/26/7bd4u9Q6apUFcAH.png)
 ## 身份
 awa服务器腐竹
 

@@ -5,5 +5,5 @@
 ## 占地面积
 太大力！！！
 ## 图片
-![](https://s2.loli.net/2022/07/28/qlBzZk1F2Mb4xjf.png)
-![](https://s2.loli.net/2022/07/28/2EMHrpFOd6Y7wZP.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/qlBzZk1F2Mb4xjf.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/2EMHrpFOd6Y7wZP.png)

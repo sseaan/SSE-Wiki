@@ -5,4 +5,4 @@
 ## 占地面积
 **28 × 29**
 ## 图片
-![](https://s2.loli.net/2022/07/31/xFbeTRDVSwKIsmQ.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/31/xFbeTRDVSwKIsmQ.png)

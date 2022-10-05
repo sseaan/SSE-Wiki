@@ -5,4 +5,4 @@
 ## 占地面积
 **11 × 11**
 ## 图片
-![](https://s2.loli.net/2022/07/28/iTQOvVmWh6zwHMn.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/iTQOvVmWh6zwHMn.png)

@@ -9,7 +9,7 @@ Dongzhu_  -  2020/7/15~2021/10/16
 
 MG4LFreestyle  -  2021/12/12~
 ## 皮肤
-![](https://s2.loli.net/2022/07/26/v5jbiYEyak3wnQC.png)
+![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/26/v5jbiYEyak3wnQC.png)
 ## 身份
 服务器元老
 
