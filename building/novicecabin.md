@@ -5,4 +5,4 @@
 ## 占地面积
 **6 × 6**
 ## 图片
-![](https://fastly.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/novicecabin.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/novicecabin.png)
