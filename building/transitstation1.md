@@ -5,4 +5,4 @@
 ## 占地面积
 **5 × 5**
 ## 图片
-![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/7UDipOGRmNM1wfB.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/transitstation1.png)

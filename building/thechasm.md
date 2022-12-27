@@ -5,4 +5,4 @@
 ## 占地面积
 **一个区块**
 ## 图片
-![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/h9sjNUn2vE1fBMX.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/thechasm.png)

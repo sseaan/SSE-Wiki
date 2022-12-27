@@ -5,4 +5,4 @@
 ## 占地面积
 **13 × 13**
 ## 图片
-![](https://images.weserv.nl/?url=https://s2.loli.net/2022/07/28/gZE4HxPk8LqXIQ7.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/experiencepool.png)
