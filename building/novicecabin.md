@@ -5,4 +5,4 @@
 ## 占地面积
 **6 × 6**
 ## 图片
-![](https://images.weserv.nl/?url=https://s2.loli.net/2022/10/06/DjcbSpnZRYBNIgz.png)
+![](https://fastly.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/novicecabin.png)
