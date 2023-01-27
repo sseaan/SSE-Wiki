@@ -5,4 +5,4 @@
 ## 占地面积
 **25 × 13**
 ## 图片
-![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/duplexcorridor.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/building/duplexcorridor.png)

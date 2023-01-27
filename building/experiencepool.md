@@ -5,4 +5,4 @@
 ## 占地面积
 **13 × 13**
 ## 图片
-![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/experiencepool.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/building/experiencepool.png)

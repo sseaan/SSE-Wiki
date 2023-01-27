@@ -5,4 +5,4 @@
 ## 占地面积
 **5 × 5**
 ## 图片
-![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/transitstation1.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/building/transitstation1.png)

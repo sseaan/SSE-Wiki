@@ -5,4 +5,4 @@
 ## 占地面积
 **9 × 11**
 ## 图片
-![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/undergroundfoodstore.png)
+![](https://test1.jsdelivr.net/gh/sseaan/file/imges/SSE-Wiki/building/undergroundfoodstore.png)
