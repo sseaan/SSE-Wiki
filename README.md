@@ -1,81 +1,8 @@
-# VitePress Documentation Template
+# Welcome | 欢迎 👏
+---
+## 本文档食用方法
+本文档是有关SSE&awa服务器的百科全书，你可以在这里获取很多关于本服的信息，它们都由本社群的成员所编撰
 
-A clean and customizable VitePress documentation template with a well-organized structure and modern design.
+顶部栏可以快速定位到每一组分类，而侧边栏可以快速定位到每一个页面
 
-## Deploy
-Deploy with EdgeOne Pages.
-
-[![EdgeOne Pages deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?template=vitepress-template)
-
-## Features
-
-- 📚 Well-organized documentation structure
-- 🎨 Customized theme and styling
-- 📱 Responsive design
-- 🔍 Full-text search
-- 📦 Easy to deploy
-- 🚀 Fast and lightweight
-
-## Directory Structure
-
-```
-.
-├── .vitepress/          # VitePress configuration
-│   ├── config.mts       # Site configuration
-│   └── theme/           # Custom theme files
-│       └── style.css    # Custom styles
-├── pages/              # Documentation pages
-│   ├── index.md        # Home page
-│   ├── quick-start/    # Quick start guide
-│   ├── advanced/       # Advanced topics
-│   ├── deployment/     # Deployment guides
-│   └── examples/       # Examples
-├── dist/               # Build output directory
-├── package.json        # Project dependencies
-├── edgeone.json        # Project deployment parameters
-└── .gitignore         # Git ignore rules
-```
-
-## Getting Started
-
-1. **Installation**
-
-```bash
-# Clone the repository
-git clone [your-repo-url]
-
-# Install dependencies
-npm install
-```
-
-2. **Development**
-
-```bash
-# Start local development server
-npm run dev
-```
-
-3. **Build**
-
-```bash
-# Build for production
-npm run build
-```
-
-4. **Preview**
-
-```bash
-# Preview production build
-npm run preview
-```
-
-## Documentation Structure
-
-- **Quick Start**: Basic setup and configuration guide
-- **Advanced**: In-depth topics and customization
-- **Examples**: Markdown and API usage examples
-- **Deployment**: Deployment guides for various platforms
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+你也可以通过页面左上角的搜索框进行全文搜索快速锁定内容所在页面
