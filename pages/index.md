@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "SSE & awa"
-  text: "SSE&awa服务器的官方WIKI"
-  tagline: The Best Server!
+  name: "SSE WIKI"
+  text: "SSE Server WIKI"
+  tagline: The Best Minecraft Server!
   actions:
     - theme: brand
       text: Let's Begin
