@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "vitepress-template",
-  description: "A starter template for VitePress",
+  title: "SSE WIKI",
+  description: "SSE Server WIKI",
   srcDir: 'pages',
   outDir: 'dist',
   ignoreDeadLinks: true,
