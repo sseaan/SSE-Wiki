@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "vitepress-template"
-  text: "A starter template for VitePress"
-  tagline: My great project tagline
+  name: "SSE & awa"
+  text: "SSE&awa服务器的官方WIKI"
+  tagline: The Best Server!
   actions:
     - theme: brand
       text: Let's Begin
