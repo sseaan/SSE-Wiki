@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "SSE WIKI",
   description: "SSE Server WIKI",
   srcDir: 'pages',
@@ -15,14 +16,16 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Quick Start', link: '/quick-start/quick-start' },
-      { text: 'Mod', link: '/examples/markdown-examples' },
-      { text: 'Plugin', link: '/plugin/plugin-examples' }
+      { text: 'Quick Start', link: '/quick-start' },
+      { text: 'Mods', link: '/mods' },
+      { text: 'Plugin', link: '/plugin' },
+      { text: 'History', link: '/history'},
+      { text: 'Member', link: '/member'}
     ],
 
     sidebar: [
       {
-        text: 'Quick Start',
+        text: '快速开始 | Quick Start',
         collapsed: true,
         items: [
           { text: 'Overview', link: '/quick-start/quick-start' },
@@ -30,36 +33,57 @@ export default defineConfig({
           { text: 'Basic Setup', link: '/quick-start/quick-start#basic-setup' },
           { text: 'Configuration', link: '/quick-start/quick-start#configuration' }
         ]
-      },
-      {
-        text: 'Advanced',
-        collapsed: true,
-        items: [
-          { text: 'Custom Theme', link: '/advanced/custom-theme' },
-          { text: 'Markdown Extensions', link: '/advanced/markdown-extensions' },
-          { text: 'Code Highlighting', link: '/advanced/code-highlighting' }
-        ]
-      },
-      {
-        text: 'Deployment',
-        collapsed: true,
-        items: [
-          { text: 'Build for Production', link: '/quick-start/quick-start#build-for-production' },
-          { text: 'GitHub Pages', link: '/quick-start/quick-start#deploy-to-github-pages' },
-          { text: 'Netlify', link: '/quick-start/quick-start#netlify-deployment' }
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/examples/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/examples/api-examples' }
-        ]
       }
+      '/mods/': [
+        {
+          text: '模组 | Mods',
+          collapsed: true,
+          items: [
+            { text: 'Create', link: '/mods/create' },
+            { text: 'Toms Simple Storage Mod', link: '/mods/tom' },
+            { text: 'Tempad', link: '/mods/tempad' }
+          ]
+        }
+      ],
+      '/plugin/': [
+        {
+          text: '插件 | Plugin',
+          collapsed: true,
+          items: [
+            { text: 'ZMusic', link: '/plugin/zmusic' },
+            { text: 'Home', link: '/plugin/home' },
+            { text: 'Netlify', link: '/quick-start/quick-start#netlify-deployment' }
+          ]
+        }
+      ],
+      '/history/': [
+        {
+          text: '历史 | History',
+          items: [
+            { text: 'Baka群组服', link: '/history/baka' },
+            { text: 'awa模组服', link: '/history/awa' },
+            { text: 'SSE模组服', link: '/history/baka' },
+            { text: 'SSE&awa联合服', link: '/history/baka' },
+            { text: 'SSE&awa Remastered', link: '/history/baka' }
+          ]
+        }
+      ],
+      '/member/': [
+        {
+          text: '成员 | Member',
+          items: [
+            { text: '🐧企鹅', link: '/member/penguin' },
+            { text: '🧶绿球', link: '/member/greenball' },
+            { text: 'Sean', link: '/member/sean' },
+            { text: '🐔仙鸡', link: '/member/chicken' },
+            { text: '🐑灰咩', link: '/member/mie' }
+          ]
+        }
+      ]
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/TencentEdgeOne/pages-templates/tree/main/examples/vitepress-template' }
+      { icon: 'github', link: 'https://github.com/sseaan/SSE-Wiki' }
     ]
   }
 })
